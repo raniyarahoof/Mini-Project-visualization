@@ -1,2 +1,19 @@
-# Mini-Project-visualization
-This mini project presents a comprehensive analysis of movie metadata to extract meaningful insights into film industry trends and performance indicators. The analysis focuses on key aspects such as genre distribution, production budgets, gross revenue, IMDb ratings, content classifications, and audience preferences. Interactive data visualizations were developed to examine director popularity, actor reach across countries, color formats, and year-wise revenue patterns. By transforming raw data into structured insights through an intuitive dashboard, the project demonstrates how data analytics and visualization techniques can support informed decision-making and provide a clear understanding of production dynamics within the movie industry.
+# Mini Project – Visualization
+
+## Description
+This mini project presents a comprehensive analysis of movie metadata to extract meaningful insights into film industry trends and performance indicators.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## Key Analysis
+- Genre distribution
+- Budget vs Revenue
+- IMDb ratings
+- Year-wise revenue trends
+
+## Conclusion
+The project demonstrates how data visualization helps in understanding movie industry dynamics and supports informed decision-making.
